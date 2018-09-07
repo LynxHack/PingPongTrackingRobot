@@ -10,3 +10,6 @@ Modification have to be made to enable sending vision with other cameras.
 # Set-Up
 1. Install PS3EYE drivers from Code Laboratories for Windows
 2. Run Mech432PingPongTracking.sln to build and run GUI.
+
+# GUI
+![Screenshot]("Ping Pong Gui.png")
